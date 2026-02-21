@@ -1,4 +1,4 @@
-// -- Override Method -- //
+// -- Method Overriding using @Override -- //
 
 // Parent Class
 class College {
