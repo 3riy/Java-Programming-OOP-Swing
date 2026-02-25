@@ -1,6 +1,6 @@
 // -- try-catch Block -- //
 
-public class BasicTryCatch {
+public class try_catch_Block {
   public static void main(String[] args) {
     // try Block
     try {
