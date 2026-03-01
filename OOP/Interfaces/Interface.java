@@ -5,7 +5,7 @@ interface Car {
     void start();
 }
 
-// Interface 1 that contains a method declaration without a body (abstract method)
+// Interface 2 that contains a method declaration without a body (abstract method)
 interface Vehicle {
     void start();
     void fuelType();
