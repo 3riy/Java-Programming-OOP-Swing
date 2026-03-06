@@ -34,13 +34,15 @@ I have organized the repository to follow a logical learning path, moving from b
 * [Methods](https://github.com/3riy/Java-Basics/tree/main/Methods)
 
 ### 🏛️ Object-Oriented Programming (OOP)
-* [Classes & Objects](https://github.com/3riy/Java-Basics/tree/main/OOP/Classes)
+* [Classes](https://github.com/3riy/Java-Basics/tree/main/OOP/Classes)
+* [Objects](https://github.com/3riy/Java-Basics/tree/main/OOP/Objects)
 * [Constructors](https://github.com/3riy/Java-Basics/tree/main/OOP/Constructors)
 * [Inheritance](https://github.com/3riy/Java-Basics/tree/main/OOP/Inheritance)
 * [Interfaces](https://github.com/3riy/Java-Basics/tree/main/OOP/Interfaces)
 * [Polymorphism](https://github.com/3riy/Java-Basics/tree/main/OOP/Polymorphism)
+* [Method Overloadind and Overriding](https://github.com/3riy/Java-Basics/tree/main/OOP/Method%20Overloading%20and%20Overriding)
 * [Exception Handling](https://github.com/3riy/Java-Basics/tree/main/OOP/Exception%20Handling)
-* [Threads and Runnable](https://github.com/3riy/Java-Basics/tree/main/OOP/Threads)
+* [Threads and Runnable](https://github.com/3riy/Java-Basics/tree/main/OOP/Threads%20and%20Runnable)
 
 ### ⚙️ Java Utilities & Advanced
 * [Access Modifiers](https://github.com/3riy/Java-Basics/blob/main/Access_Modifiers.java)
