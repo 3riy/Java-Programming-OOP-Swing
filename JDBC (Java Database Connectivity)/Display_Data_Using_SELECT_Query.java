@@ -8,8 +8,7 @@ import java.sql.Statement;
 public class Display_Data_Using_SELECT_Query {
     public static void main(String[] args) {
         try {
-            Connection con = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/q2", "root", "your_password");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/q2", "root", "your_password");
 
             Statement stmt = con.createStatement();
             // SELECT query to display records/data in the table
