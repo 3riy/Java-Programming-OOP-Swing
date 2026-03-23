@@ -1,7 +1,5 @@
 ## ☕ Java Language Overview
 
-<img width="1584" height="396" alt="Java Basics" src="https://github.com/user-attachments/assets/java-banner-placeholder-url">
-
 **Java** is a **robust, class-based, object-oriented** programming language designed to have as few implementation dependencies as possible. Governed by the principle of **"Write Once, Run Anywhere" (WORA)**, Java powers everything from Android apps and enterprise software to massive data processing engines.
 
 This repository features structured Java programs, organized by core syntax and Object-Oriented principles, making it ideal for mastering the JVM ecosystem.
