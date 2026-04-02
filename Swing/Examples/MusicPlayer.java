@@ -1,16 +1,7 @@
 // -- Music Player Simulation using JList for songs and a Timer to simulate the progress bar and time updates. -- //
 
-import java.awt.BorderLayout;
-
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JList;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-import javax.swing.JProgressBar;
-import javax.swing.JScrollPane;
-import javax.swing.Timer;
+import java.awt.*;
+import javax.swing.*;
 
 public class MusicPlayer extends JFrame {
     private JProgressBar progressBar;
