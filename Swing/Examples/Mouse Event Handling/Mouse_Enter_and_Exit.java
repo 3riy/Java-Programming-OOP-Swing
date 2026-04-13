@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*; 
 import java.awt.event.*; 
 
-public class Mouse_Enter_and_Exit_Event_Handling { 
+public class Mouse_Enter_and_Exit { 
     public static void main(String[] args) { 
         JFrame f = new JFrame("Mouse Enter Exit"); 
         f.addMouseListener(new MouseAdapter() { 
