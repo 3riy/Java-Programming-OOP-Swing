@@ -5,18 +5,18 @@ import java.awt.event.*;
 
 public class Mouse_Click { 
     public static void main(String[] args) { 
-        JFrame f = new JFrame("Mouse Click Event Handling"); 
-        JLabel l = new JLabel("Click anywhere"); 
-        l.setBounds(100, 100, 200, 30); 
-        f.add(l); 
-        f.addMouseListener(new MouseAdapter() { 
+        JFrame frame = new JFrame("Mouse Click Event Handling"); 
+        JLabel label = new JLabel("Click anywhere"); 
+        label.setBounds(100, 100, 200, 30); 
+        frame.add(l); 
+        frame.addMouseListener(new MouseAdapter() { 
             public void mouseClicked(MouseEvent e) { 
-                l.setText("Clicked at: " + e.getX() + "," + e.getY()); 
+                label.setText("Clicked at: " + e.getX() + "," + e.getY()); 
             } 
         }); 
-        f.setSize(400, 300); 
-        f.setLayout(null); 
-        f.setVisible(true); 
-        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
+        frame.setSize(400, 300); 
+        frame.setLayout(null); 
+        frame.setVisible(true); 
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
     } 
 }
